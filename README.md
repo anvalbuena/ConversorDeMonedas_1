@@ -24,8 +24,15 @@ Ingrese la cantidad a convertir y la aplicación devolverá el monto equivalente
 Puede optar por realizar otra conversión o salir de la aplicación.
 
 Ejemplo de Conversión
+
+
 ![image](https://github.com/user-attachments/assets/77acc0fb-be47-4e4e-b95c-232817262f84)
-![image](https://github.com/user-attachments/assets/993e8f5d-dc56-4921-be9a-8f5c5564fc3b)![image](https://github.com/user-attachments/assets/3e0420d1-8745-4248-ae7f-fb36d03d4cfd)
+
+
+![image](https://github.com/user-attachments/assets/993e8f5d-dc56-4921-be9a-8f5c5564fc3b)
+
+
+![image](https://github.com/user-attachments/assets/3e0420d1-8745-4248-ae7f-fb36d03d4cfd)
 
 
 
